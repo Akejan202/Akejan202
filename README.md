@@ -1,16 +1,18 @@
 ## Hi there 👋
-
+ my name is akezhan amangeldin
+ Bau student 
+ Business Admin department
 <!--
 **Akejan202/Akejan202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on my project
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on -243King
+- 🤔 I’m looking for help with current project
+- 💬 Ask me about games
+- 📫 How to reach me: Akejan659@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i like WW2 theme and guns (i want to join USA army in future)
 -->
